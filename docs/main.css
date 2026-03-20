@@ -1,0 +1,31 @@
+h1 {
+    color: #449DD1;
+}
+
+p{
+    color: #150578;
+}
+
+/* seletor de id */
+#UFSM{
+    color: #32292F;
+}
+
+th{
+    background-color: lightblue;
+}
+
+/* seletor de id */
+#bilheteria{
+    background-color: lightgrey;
+}
+
+.linha-cinza{
+    background-color: lightgrey;
+}
+
+/* seletor de pseudoclasse */
+a:hover{
+    background-color: blue;
+    color: black;
+}
