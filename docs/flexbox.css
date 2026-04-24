@@ -1,7 +1,7 @@
 .container {
     display: flex;
     height: 300px; /* nova propriedade! */
-    background-color: blue;
+    background-color: #00ffff;
     flex-direction: row; /* row, row-reverse, column-reverse */
     flex-wrap: wrap; /* nowrap, wrap, wrap-reverse */
     justify-content: center; /* flex-start, flex-end, center, space-between, space-around, space-evenly */
@@ -15,7 +15,7 @@
     width: 100px;
     height: 50px;
     margin: 5px;
-    border: 5px solid black;
-    background-color: lightpink;
+    border: 5px solid #090582;
+    background-color: #e80f9c;
     padding: 5px;
 }
